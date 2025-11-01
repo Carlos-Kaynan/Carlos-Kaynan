@@ -34,8 +34,8 @@ Tenho experiência em **Robótica** e **Programação Backend**, atuando por **2
 ---
 
 ### 🌐 Conecte-se comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](in/carlos-kaynan-de-sousa-933745287)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cks@cin.ufpe.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-kaynan-de-sousa-933745287/)
+[![Gmail](https://img.shields.io/badge/Email-cks@cin.ufpe.br-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cks@cin.ufpe.br)
 
 ---
 ✨ *“Transformando sinais cerebrais em interações inteligentes.”*
